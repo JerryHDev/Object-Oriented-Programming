@@ -6,6 +6,6 @@ Exercises from Introduction To Java Programming, Comprehensive Version (9th Edit
 
 Palo Alto Senior High School
 
-Sophomore Year
+Sophomore Year - Mr. Friedland
 
 2nd Semester 2015
